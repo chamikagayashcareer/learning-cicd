@@ -1,0 +1,20 @@
+{
+  "name": "learning-cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run" : "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamikagayashcareer/learning-cicd.git"
+  },
+  "author": "Chamika Gayashan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chamikagayashcareer/learning-cicd/issues"
+  },
+  "homepage": "https://github.com/chamikagayashcareer/learning-cicd#readme",
+  "description": ""
+}
